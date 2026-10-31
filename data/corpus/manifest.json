@@ -1,0 +1,38 @@
+[
+  {
+    "title": "FastAPI - Path Parameters",
+    "source_url": "https://fastapi.tiangolo.com/tutorial/path-params/",
+    "filename": "fastapi_path_parameters.md",
+    "doc_id": "fastapi_path_parameters"
+  },
+  {
+    "title": "FastAPI - Request Body",
+    "source_url": "https://fastapi.tiangolo.com/tutorial/body/",
+    "filename": "fastapi_request_body.md",
+    "doc_id": "fastapi_request_body"
+  },
+  {
+    "title": "FastAPI - Dependencies",
+    "source_url": "https://fastapi.tiangolo.com/tutorial/dependencies/",
+    "filename": "fastapi_dependencies.md",
+    "doc_id": "fastapi_dependencies"
+  },
+  {
+    "title": "FastAPI - Background Tasks",
+    "source_url": "https://fastapi.tiangolo.com/tutorial/background-tasks/",
+    "filename": "fastapi_background_tasks.md",
+    "doc_id": "fastapi_background_tasks"
+  },
+  {
+    "title": "Pydantic - Models",
+    "source_url": "https://docs.pydantic.dev/latest/concepts/models/",
+    "filename": "pydantic_models.md",
+    "doc_id": "pydantic_models"
+  },
+  {
+    "title": "Pydantic - Validators",
+    "source_url": "https://docs.pydantic.dev/latest/concepts/validators/",
+    "filename": "pydantic_validators.md",
+    "doc_id": "pydantic_validators"
+  }
+]
